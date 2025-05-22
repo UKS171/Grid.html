@@ -1,2 +1,35 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="grid.css" />
+    <title>Grid</title>
+  </head>
+  <body>
+    <div class="layout">
+      <div class="navbar">Navbar</div>
+      <div class="sidebar">
+        <div>
+          <div>Home</div>
+          <div>Experience</div>
+          <div>Student</div>
+          <div>Employees</div>
+        </div>
+      </div>
+      <div class="main-content">
+        <div>
+          <div>
+            <p>
+              Lorem ipsum dolor sit amet consectetur adipisicing elit.
+              Laboriosam tenetur tempore libero repudiandae. Hic doloribus
+              suscipit at exercitationem ipsam aut, debitis quos porro esse
+              recusandae? Molestias non culpa maxime quas.
+            </p>
+          </div>
+        </div>
+      </div>
+      <div class="footer">Footer</div>
+    </div>
+  </body>
+</html>
